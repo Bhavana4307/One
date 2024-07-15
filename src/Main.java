@@ -1,8 +1,8 @@
-    // Creating a class
+// Creating a Main class
 public class Main {
     int x;
 
-    // Creating a class constructor for the Main class
+// Creating a class constructor for the Main class
     public Main() {
         x = 4;
     }
